@@ -1,0 +1,7 @@
+:SENS:SWE:POIN   101
+:SENS:FREQ:STAR 1e9 
+:SENS:FREQ:STOP 5e9 
+:SENS:BWID 3000 
+:CALC:PAR:DEF S21
+C:\\data\\job_aaa.txt
+Cable length 3
